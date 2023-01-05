@@ -1,5 +1,8 @@
 # Petal Cite Changelog
 
+## January 5, 2023
+- Added a context menu that is shown on selection in Document Viewer that will metadata properties from selected text
+
 ## December 29, 2022
 
 - Fixed text selection issue in standalone document viewer
