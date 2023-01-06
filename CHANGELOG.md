@@ -1,7 +1,13 @@
 # Petal Cite Changelog
 
 ## January 5, 2023
+
 - Added a context menu that is shown on selection in Document Viewer that will metadata properties from selected text
+- Fixed the issue with aspect ratio in annotation images
+- Added default sort by location for annotations
+- Added auto scroll for annotations on document scroll
+- Annotations grouped by page
+- Updated dialog for document properties with list type
 
 ## December 29, 2022
 
