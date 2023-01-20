@@ -1,5 +1,11 @@
 # Petal Cite Changelog
 
+## January 20, 2023
+
+- Implented new SSO flow for all Petal services
+- Implemented upgrade plans and Stripe billing integration
+- Implemented finer-graind permissions and guest accounts
+
 ## January 5, 2023
 
 - Added a context menu that is shown on selection in Document Viewer that will metadata properties from selected text
