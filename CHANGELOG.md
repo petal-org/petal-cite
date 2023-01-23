@@ -1,5 +1,9 @@
 # Petal Cite Changelog
 
+## January 23, 2023
+
+- Released [Petal Citation Generator](https://cite.petal.org/citation/generator/home)
+
 ## January 20, 2023
 
 - Implented new SSO flow for all Petal services
