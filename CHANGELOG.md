@@ -1,5 +1,10 @@
 # Petal Cite Changelog
 
+## January 31, 2023
+
+- UI overhaul
+- Improved global search relevance
+
 ## January 23, 2023
 
 - Released [Petal Citation Generator](https://cite.petal.org/citation/generator/home)
