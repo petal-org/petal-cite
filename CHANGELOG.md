@@ -1,5 +1,9 @@
 # Petal Cite Changelog
 
+## Feburary 8, 2023
+
+- Updated pricing page and usage limits
+
 ## January 31, 2023
 
 - UI overhaul
