@@ -1,4 +1,9 @@
 # Petal Cite Changelog
+## February 16, 2023
+
+- Implemented Petal AI feature
+
+  <img width="1268" alt="image" src="https://user-images.githubusercontent.com/336681/219547425-67770754-a8d7-449b-ab98-f98ce037d98d.png">
 
 ## Feburary 8, 2023
 
